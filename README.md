@@ -2,7 +2,7 @@
 
 本方法通用性强，适合多种纹理表面的缺陷检测，且其实现无需表面纹理的先验信息，也无需借助学习过程。
 
-![Thumbnail Image](results/Main.png?raw=true)
+![Thumbnail Image](results/demo_vedio.gif?raw=true)
 
 *\*State of the art as of August 2019 in the real-time anime 4K upscaling category, the fastest at achieving reasonable quality. We do not claim this is a superior quality general purpose SISR algorithm compared to machine learning approaches.*
 
