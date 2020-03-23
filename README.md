@@ -2,6 +2,8 @@
 
 本方法通用性强，适合多种纹理表面的缺陷检测，且其实现无需表面纹理的先验信息，也无需借助学习过程。
 
+## 软件操作演示
+
 ![Thumbnail Image](results/demo_vedio.gif?raw=true)
 
 ## 缺陷检测结果展示
