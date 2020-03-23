@@ -1,6 +1,6 @@
 # 基于相位变换的无监督表面缺陷检测软件
 
-Anime4K is a state-of-the-art*, open-source, high-quality real-time anime upscaling algorithm that can be implemented in any programming language.
+本方法通用性强，适合多种纹理表面的缺陷检测，且其实现无需表面纹理的先验信息，也无需借助学习过程。
 
 ![Thumbnail Image](results/Main.png?raw=true)
 
